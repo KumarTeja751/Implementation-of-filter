@@ -359,7 +359,7 @@ plt.show()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
-
+![image](https://github.com/user-attachments/assets/7acf7e52-a0d8-4bce-9fe2-36cd898f5c7e)
 
 ii)Using Weighted Averaging Filter
 

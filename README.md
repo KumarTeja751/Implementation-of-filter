@@ -35,7 +35,7 @@ Anaconda - Python 3.7
 
 i) Using Averaging Filter
 ```Python
-iimport cv2
+import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 

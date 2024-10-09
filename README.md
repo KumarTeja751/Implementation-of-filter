@@ -7,24 +7,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-</br>
-</br> 
+Import the required libraries.
 
 ### Step2
-</br>
-</br> 
+Read the image by using imread().
 
 ### Step3
-</br>
-</br> 
+Apply the required filters for the image separately.
 
 ### Step4
-</br>
-</br> 
+Plot the original and filtered image by using matplotlib.pyplot.
 
 ### Step5
-</br>
-</br> 
+End the program.
 
 ## Program:
 ### Developed By   : N KUMARTEJA
@@ -210,7 +205,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jp', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
 
 salt_prob = 0.05  
 pepper_prob = 0.05  
@@ -362,19 +357,24 @@ i) Using Averaging Filter
 ![image](https://github.com/user-attachments/assets/7acf7e52-a0d8-4bce-9fe2-36cd898f5c7e)
 
 ii)Using Weighted Averaging Filter
+![image](https://github.com/user-attachments/assets/8285b23f-c853-438c-a300-e809bcad6d65)
 
 
 iii)Using Gaussian Filter
+![image](https://github.com/user-attachments/assets/cad700ef-8508-4dc3-960f-e77ce9dd7a3d)
 
 
 iv) Using Median Filter
+![image](https://github.com/user-attachments/assets/fda7a5d1-8996-410a-b83c-44bbe4c03c1b)
 
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+![image](https://github.com/user-attachments/assets/3cb26cfc-003e-4cf6-b2dd-56090de106d9)
 
 ii) Using Laplacian Operator
+![image](https://github.com/user-attachments/assets/4e71fbc2-bed6-4e07-b4a4-ea13ca3afc5f)
 
 
 ## Result:
